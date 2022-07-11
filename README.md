@@ -109,8 +109,8 @@ Service provides us stable IP address. If a pod dies and a new pod created the s
 
 * ClusterIP Services
 * Headless Services
-* NodePort Services
-* LoadBalancer Services
+* NodePort Services -> Nodeport is an extension of ClusterIP services
+* LoadBalancer Services -> LoadBalancer is an extension of NodePort services
 <!-- * [![Next][Next.js]][Next-url] -->
 
 

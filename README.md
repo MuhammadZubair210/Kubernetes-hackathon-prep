@@ -102,7 +102,7 @@ Use the `BLANK_README.md` to get started.
 ### Kubernetes "Services"
 
 ## What is a service in kubernetes ?
-Service provides us stable IP address. If a pod dies and a new pod created the service handles the operation itself without any adjustment.
+Service provides us stable IP address. If a pod dies and a new pod created the service handles the operation itself without any custom adjustment.
 
 
 ## Service Types
